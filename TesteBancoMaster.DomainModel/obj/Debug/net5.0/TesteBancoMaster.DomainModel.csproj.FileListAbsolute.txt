@@ -1,0 +1,15 @@
+C:\Users\Edmilson\source\repos\TesteBancoMaster\TesteBancoMaster.DomainModel\bin\Debug\net5.0\TesteBancoMaster.DomainModel.deps.json
+C:\Users\Edmilson\source\repos\TesteBancoMaster\TesteBancoMaster.DomainModel\bin\Debug\net5.0\TesteBancoMaster.DomainModel.runtimeconfig.json
+C:\Users\Edmilson\source\repos\TesteBancoMaster\TesteBancoMaster.DomainModel\bin\Debug\net5.0\TesteBancoMaster.DomainModel.runtimeconfig.dev.json
+C:\Users\Edmilson\source\repos\TesteBancoMaster\TesteBancoMaster.DomainModel\bin\Debug\net5.0\TesteBancoMaster.DomainModel.dll
+C:\Users\Edmilson\source\repos\TesteBancoMaster\TesteBancoMaster.DomainModel\bin\Debug\net5.0\ref\TesteBancoMaster.DomainModel.dll
+C:\Users\Edmilson\source\repos\TesteBancoMaster\TesteBancoMaster.DomainModel\bin\Debug\net5.0\TesteBancoMaster.DomainModel.pdb
+C:\Users\Edmilson\source\repos\TesteBancoMaster\TesteBancoMaster.DomainModel\obj\Debug\net5.0\TesteBancoMaster.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmilson\source\repos\TesteBancoMaster\TesteBancoMaster.DomainModel\obj\Debug\net5.0\TesteBancoMaster.DomainModel.AssemblyInfoInputs.cache
+C:\Users\Edmilson\source\repos\TesteBancoMaster\TesteBancoMaster.DomainModel\obj\Debug\net5.0\TesteBancoMaster.DomainModel.AssemblyInfo.cs
+C:\Users\Edmilson\source\repos\TesteBancoMaster\TesteBancoMaster.DomainModel\obj\Debug\net5.0\TesteBancoMaster.DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\Edmilson\source\repos\TesteBancoMaster\TesteBancoMaster.DomainModel\obj\Debug\net5.0\TesteBancoMaster.DomainModel.dll
+C:\Users\Edmilson\source\repos\TesteBancoMaster\TesteBancoMaster.DomainModel\obj\Debug\net5.0\ref\TesteBancoMaster.DomainModel.dll
+C:\Users\Edmilson\source\repos\TesteBancoMaster\TesteBancoMaster.DomainModel\obj\Debug\net5.0\TesteBancoMaster.DomainModel.pdb
+C:\Users\Edmilson\source\repos\TesteBancoMaster\TesteBancoMaster.DomainModel\obj\Debug\net5.0\TesteBancoMaster.DomainModel.genruntimeconfig.cache
+C:\Users\Edmilson\source\repos\TesteBancoMaster\TesteBancoMaster.DomainModel\obj\Debug\net5.0\TesteBancoMaster.DomainModel.csproj.AssemblyReference.cache

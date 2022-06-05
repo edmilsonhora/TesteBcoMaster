@@ -1,0 +1,43 @@
+﻿<Window x:Class="TesteBancoMaster.AppWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto"        
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        xmlns:local="clr-namespace:TesteBancoMaster.AppWPF"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Teste Banco Master -  By Edmilson Silva da Hora" Height="550" Width="890" WindowStartupLocation="CenterScreen">
+    <DockPanel LastChildFill="True">
+        <StackPanel x:Name="PanelLeft" Width="200" DockPanel.Dock="Left" HorizontalAlignment="Left" Background="{StaticResource PrimaryHueDarkBrush}">
+
+            <Button x:Name="btnRotas" Margin="0 100 0 5" materialDesign:ShadowAssist.ShadowDepth="Depth3" Click="btnRotas_Click" Cursor="Hand" >
+                <StackPanel Orientation="Horizontal" Width="180">
+                    <materialDesign:PackIcon Kind="Luggage"  Height="24" Width="24" />
+                    <TextBlock  Margin="18 0 0 0" VerticalAlignment="Center"> Rotas</TextBlock>
+                </StackPanel>
+            </Button>
+
+            <Button x:Name="btnCalcular" Margin="0 5 0 5 " materialDesign:ShadowAssist.ShadowDepth="Depth3" Click="btnCalcular_Click">
+                <StackPanel Orientation="Horizontal" Width="180">
+                    <materialDesign:PackIcon
+                        Kind="Map"
+                        Height="24"
+                        Width="24" />
+                    <TextBlock Margin="18 0 0 0" VerticalAlignment="Center">Busca menor custo</TextBlock>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+        
+        <StackPanel x:Name="PanelConteudo">
+            
+        </StackPanel>
+      
+    </DockPanel>
+</Window>
