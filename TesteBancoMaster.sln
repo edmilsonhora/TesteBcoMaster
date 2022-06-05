@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteBancoMaster.AppAPIRest", "TesteBancoMaster.AppAPIRest\TesteBancoMaster.AppAPIRest.csproj", "{B8A9A297-3135-4919-A6AD-2C4677B327BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - FrontEnd", "1 - FrontEnd", "{0F947A24-5E38-438B-9B14-207C3FD97CCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - BackEnd", "2 - BackEnd", "{F4211648-EDC4-46F0-B74F-90525361FA24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.1 - AppApiRest", "1.1 - AppApiRest", "{30F7DDD7-9EFC-4D09-85D0-0F1369546394}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.0 - AppWPF", "1.0 - AppWPF", "{06B7E347-2212-4406-AD62-C5294FB74D36}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteBancoMaster.AppWPF", "TesteBancoMaster.AppWPF\TesteBancoMaster.AppWPF.csproj", "{B0BCC2F1-B9C6-4B54-99FC-8F2048BBF0C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.1 - DataAccess", "2.1 - DataAccess", "{7027A61D-1588-4C66-8F56-4A3200183CD2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.2 - DomainModel", "2.2 - DomainModel", "{950E7AC2-AC8B-4168-9A0D-7106B1A9C555}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteBancoMaster.DomainModel", "TesteBancoMaster.DomainModel\TesteBancoMaster.DomainModel.csproj", "{22A1BD6A-9E10-4A50-BC8F-D9F0A6887A3D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteBancoMaster.DataAccess", "TesteBancoMaster.DataAccess\TesteBancoMaster.DataAccess.csproj", "{D578087D-85B1-4DC0-9194-058F5B3E5351}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.0 - ApplicationService", "2.0 - ApplicationService", "{3A038778-16EF-45BB-9A93-5E0664065336}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteBancoMaster.ApplicationService", "TesteBancoMaster.ApplicationService\TesteBancoMaster.ApplicationService.csproj", "{E8001A79-0F8F-45CF-BA7F-BA0AAAB15356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A9A297-3135-4919-A6AD-2C4677B327BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A9A297-3135-4919-A6AD-2C4677B327BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A9A297-3135-4919-A6AD-2C4677B327BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A9A297-3135-4919-A6AD-2C4677B327BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0BCC2F1-B9C6-4B54-99FC-8F2048BBF0C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BCC2F1-B9C6-4B54-99FC-8F2048BBF0C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BCC2F1-B9C6-4B54-99FC-8F2048BBF0C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BCC2F1-B9C6-4B54-99FC-8F2048BBF0C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A1BD6A-9E10-4A50-BC8F-D9F0A6887A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A1BD6A-9E10-4A50-BC8F-D9F0A6887A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A1BD6A-9E10-4A50-BC8F-D9F0A6887A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A1BD6A-9E10-4A50-BC8F-D9F0A6887A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D578087D-85B1-4DC0-9194-058F5B3E5351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D578087D-85B1-4DC0-9194-058F5B3E5351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D578087D-85B1-4DC0-9194-058F5B3E5351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D578087D-85B1-4DC0-9194-058F5B3E5351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8001A79-0F8F-45CF-BA7F-BA0AAAB15356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8001A79-0F8F-45CF-BA7F-BA0AAAB15356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8001A79-0F8F-45CF-BA7F-BA0AAAB15356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8001A79-0F8F-45CF-BA7F-BA0AAAB15356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B8A9A297-3135-4919-A6AD-2C4677B327BB} = {30F7DDD7-9EFC-4D09-85D0-0F1369546394}
+		{30F7DDD7-9EFC-4D09-85D0-0F1369546394} = {0F947A24-5E38-438B-9B14-207C3FD97CCD}
+		{06B7E347-2212-4406-AD62-C5294FB74D36} = {0F947A24-5E38-438B-9B14-207C3FD97CCD}
+		{B0BCC2F1-B9C6-4B54-99FC-8F2048BBF0C1} = {06B7E347-2212-4406-AD62-C5294FB74D36}
+		{7027A61D-1588-4C66-8F56-4A3200183CD2} = {F4211648-EDC4-46F0-B74F-90525361FA24}
+		{950E7AC2-AC8B-4168-9A0D-7106B1A9C555} = {F4211648-EDC4-46F0-B74F-90525361FA24}
+		{22A1BD6A-9E10-4A50-BC8F-D9F0A6887A3D} = {950E7AC2-AC8B-4168-9A0D-7106B1A9C555}
+		{D578087D-85B1-4DC0-9194-058F5B3E5351} = {7027A61D-1588-4C66-8F56-4A3200183CD2}
+		{3A038778-16EF-45BB-9A93-5E0664065336} = {F4211648-EDC4-46F0-B74F-90525361FA24}
+		{E8001A79-0F8F-45CF-BA7F-BA0AAAB15356} = {3A038778-16EF-45BB-9A93-5E0664065336}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66E17ABF-0D7E-40E5-9FDF-713EDC13FD9E}
+	EndGlobalSection
+EndGlobal
